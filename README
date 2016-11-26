@@ -1,0 +1,12 @@
+This contains two input folders "one_face" containg single face images and 'multi_face" containing multiple face images.
+
+The given code takes input from the 'multiple_face_input' folder and returns output in 'multiple_face' folder.You can however change the 
+input folder to 'single_face_input' folder and check the output for single face image inputs.The comments are added for this purpose.
+
+After each step of the implementation to display the figure you can uncomment the code to display figure written after that step.But it 
+is good that you uncomment it for single image by running the loop one time.
+
+The result for single_face input is stored in 'single_face' folder.
+
+
+
